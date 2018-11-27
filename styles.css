@@ -1,0 +1,49 @@
+img{
+    width:300px;
+    border-style:solid;
+    border-color:#e6e6e6;
+}
+.right-col{
+background-color:#fcfcfc;
+width:500px;
+text-align:center;
+display:inline-block;
+border-style:solid;
+border-color:#e6e6e6;
+}
+body{
+    text-align:center;
+    background-image:url("http://theweeklyspoon.com/wp-content/uploads/2017/08/Violet-Evergarden-Wallpapers-1.jpg");
+    background-repeat:no-repeat;
+    background-position:center;
+    background-attachment:fixed;
+    background-size:100% 100%;
+}
+h2{
+    font-family:raleway;
+    font-size:48px;
+    text-shadow: 1.5px 1.5px 1.5px #cccccc;
+    color:#5f007a;
+}
+h1{
+    font-family:montserrat;
+    font-size:36px;
+    color:#670084;
+}
+p{
+     font-family:montserrat;
+    font-size:25px;
+    color:#670084;
+}
+.Yuki{
+    text-shadow:.5px .5px .5px #cccccc;
+}
+.Lucy{
+    text-shadow:.4px .4px .4px #cccccc;
+}
+.Buddy{
+    text-shadow:.3px .3px .3px #cccccc;
+}
+.Sam{
+    text-shadow:.2px .2px .2px #cccccc;
+}
